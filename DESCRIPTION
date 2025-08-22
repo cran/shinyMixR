@@ -1,6 +1,6 @@
 Package: shinyMixR
 Title: Interactive 'shiny' Dashboard for 'nlmixr2'
-Version: 0.5.1
+Version: 0.5.2
 Authors@R: c(person("Richard", "Hooijmaijers", email = "richardhooijmaijers@gmail.com", role = c("aut", "cre","cph")),
              person("Teun", "Post", email = "teunpost@gmail.com",role = c("aut","cph")),
              person("LAPP Consultants",email = "info@lapp.nl", role=c("fnd","cph")),
@@ -24,7 +24,7 @@ Encoding: UTF-8
 RoxygenNote: 7.3.2
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2025-07-18 09:04:12 UTC; r.hooijmaijers
+Packaged: 2025-08-22 14:44:14 UTC; r.hooijmaijers
 Author: Richard Hooijmaijers [aut, cre, cph],
   Teun Post [aut, cph],
   LAPP Consultants [fnd, cph],
@@ -32,4 +32,4 @@ Author: Richard Hooijmaijers [aut, cre, cph],
   Veerle van Leemput [ctb]
 Maintainer: Richard Hooijmaijers <richardhooijmaijers@gmail.com>
 Repository: CRAN
-Date/Publication: 2025-07-18 09:20:02 UTC
+Date/Publication: 2025-08-22 16:20:02 UTC
